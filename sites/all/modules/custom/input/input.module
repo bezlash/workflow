@@ -6,7 +6,9 @@
  * Demonstrates use of the Form API.
  *
  * For a full list of elements and attributes, see:
- * http://api.drupal.org/api/drupal/developer--topics--forms_api_reference.html/7 THIS WILL CAUSE A CONFLICT
+
+ * http://api.drupal.org/api/drupal/developer--topics--forms_api_reference.html/7 KEEP THIS CHANGE
+
  */
 
 /**
